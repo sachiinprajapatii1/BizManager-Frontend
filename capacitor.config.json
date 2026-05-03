@@ -1,0 +1,8 @@
+{
+  "appId": "com.tys.bizmanager",
+  "appName": "BizManager",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http"
+  }
+}
